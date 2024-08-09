@@ -1,0 +1,9 @@
+torch
+pytorch-lightning
+deepspeed
+numpy
+pandas
+tensorboard
+torchvision
+pickle
+matplotlib
